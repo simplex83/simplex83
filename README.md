@@ -3,8 +3,8 @@
 Я начинающий Beб-разработчик
 * Сейчас заканчиваю обучение в Яндекс.Практикуме👨‍🎓
 * Хочу работать в команде профессионалов👨‍💻
+* Ответственно и точно в срок выполняю поставленные задачи⏰
 * Стремлюсь к постоянному росту и развитию для достижения лучших результатов🚀
-* 
 
 ## :hammer: Мой стек технологий :
 
@@ -28,9 +28,10 @@
 </div>
 
 ## 📫Контакты:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=wihte)](https://t.me/oleg_simplex)
-[![Mail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oleg.v.abramovv@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-darkblue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/oleg_simplex)
 [![Facebook](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/oleg.abramoff)
+[![Mail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oleg.v.abramovv@gmail.com)
+[![Discord](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/simplex83/ )
 
 ## 🔥Моя статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simplex83)](https://github.com/anuraghazra/github-readme-stats)

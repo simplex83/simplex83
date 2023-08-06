@@ -1,21 +1,8 @@
-### Hi there 👋
+# Привет, меня зовут Олег 👋
 
-<!--
-**simplex83/simplex83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br></br>
-### :hammer: Languages and Tools :
+### :hammer: Мой стек технологий :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
@@ -34,12 +21,29 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="60" height="60"/>&nbsp;
-  
 </div>
 
+## Контакты:
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=wihte)](https://t.me/oleg_simplex)
+[![Mail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oleg.v.abramovv@gmail.com)
+[![Facebook](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/oleg.abramoff)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simplex83)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
+<!--
+**simplex83/simplex83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

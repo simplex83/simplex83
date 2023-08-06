@@ -1,8 +1,12 @@
 # Привет, меня зовут Олег 👋
+###
+Я начинающий Beб-разработчик
+* Сейчас заканчиваю обучение в Яндекс.Практикуме👨‍🎓
+* Хочу работать в команде профессионалов👨‍💻
+* Стремлюсь к постоянному росту и развитию для достижения лучших результатов🚀
+* 
 
-
-
-### :hammer: Мой стек технологий :
+## :hammer: Мой стек технологий :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
@@ -23,12 +27,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="60" height="60"/>&nbsp;
 </div>
 
-## Контакты:
+## 📫Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=wihte)](https://t.me/oleg_simplex)
 [![Mail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oleg.v.abramovv@gmail.com)
 [![Facebook](https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/oleg.abramoff)
 
-
+## 🔥Моя статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simplex83)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -46,4 +50,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simplex83)](https://github.com/anuraghazra/github-readme-stats)
 -->
